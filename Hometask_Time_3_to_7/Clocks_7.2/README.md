@@ -1,1 +1,1 @@
-./a.exe - command to launch main programm
+```./a.exe``` - command to launch main programm
