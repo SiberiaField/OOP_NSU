@@ -1,1 +1,1 @@
-Print "./cbTest" in command line to start tests
+Print "./cbTest.exe" in command line to start tests
