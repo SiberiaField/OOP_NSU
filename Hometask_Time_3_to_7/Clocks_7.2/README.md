@@ -1,1 +1,1 @@
-Print ./a.exe to start main programm
+./a.exe - command to launch main programm
